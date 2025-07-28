@@ -1,6 +1,6 @@
-#include <iostream> // Includes the iostream library for input/output operations
+#include <iostream> 
 
-int main() { // The main function, where program execution begins
-    std::cout << "Hello, World!" << std::endl; // Prints "Hello, World!" to the console and adds a newline
-    return 0; // Indicates successful program execution
+int main(){
+    std::cout << "Hello, World!" << std::endl; 
+    return 0; 
 }
